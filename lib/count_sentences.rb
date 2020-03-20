@@ -28,6 +28,7 @@ class String
 
   def count_sentences
     sentence.split(".","?","!")
+    sentence.count
     
 
   end
