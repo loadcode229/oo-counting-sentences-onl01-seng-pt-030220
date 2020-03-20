@@ -29,6 +29,7 @@ class String
   def count_sentences
     self.split(".", "?", "!")
     self.count
+    return self
     
   end
 end
