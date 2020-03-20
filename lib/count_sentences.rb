@@ -34,3 +34,4 @@ class String
 end
 
 Hello = String.new("You suck some straight ass dick. Faggot ass bitch! Pussy stinks?")
+Hello
