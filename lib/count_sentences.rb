@@ -30,6 +30,6 @@ class String
     new_array = self.split(/[.?!]/)
     new_array.delete_if?{|sentence, sentence.empty|}
     new_array.count
-    
+  end
   end
 end
