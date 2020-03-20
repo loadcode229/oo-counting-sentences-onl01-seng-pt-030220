@@ -33,4 +33,4 @@ class String
   end
 end
 
-String.count_sentences
+Hello = String.new("You suck some straight ass dick. Faggot ass bitch! Pussy stinks?")
