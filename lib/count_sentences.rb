@@ -32,3 +32,5 @@ class String
     new_array.count
   end
 end
+
+String.count_sentences
